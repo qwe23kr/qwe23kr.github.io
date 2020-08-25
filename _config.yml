@@ -1,7 +1,7 @@
 title: 개발도 요리처럼! 망고땡
 subtitle: since2020.08.25
 author: 망고땡
-avatar: /logo.png
+avatar: /log.png
 email: kfc_coco@naver.com
 
 plugins:
@@ -32,7 +32,7 @@ exclude:
 twitter:
   username: qwe23kr
   card: summary
-logo: logo.png
+logo: log.png
 social:
   name: kfc_coco
   links:
